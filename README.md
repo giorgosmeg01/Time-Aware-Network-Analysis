@@ -8,7 +8,7 @@ Compute and plot centrality measures (Degree, Closeness, Betweenness, Eigenvecto
 Implement similarity-based link prediction (Graph Distance, Common Neighbors, Jaccard's Coefficient, Adamic/Adar, Preferential Attachment).
 Train and evaluate classifiers for optimal prediction accuracy on training and testing sets.
 
-# Features
+
 # Part I: Temporal Network Partitioning and Centrality Analysis 
 
 Partition the time interval [t_min, t_max] into N non-overlapping periods.
